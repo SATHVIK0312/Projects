@@ -1,0 +1,8 @@
+{
+    "jobData":{
+        "getAll": "http://localhost:8080/jobhistory",
+        "post":"http://localhost:8080/jobhistory",
+        "put":"http://localhost:8080/jobhistory",
+        "delete":"http://localhost:8080/jobhistory"
+    } 
+}

@@ -1,0 +1,8 @@
+{
+    "locationData":{
+        "getAll": "http://localhost:8080/location",
+        "post":"http://localhost:8080/location",
+        "put":"http://localhost:8080/location",
+        "delete":"http://localhost:8080/location"
+    }
+}
