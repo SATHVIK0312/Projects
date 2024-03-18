@@ -1,0 +1,6 @@
+DATA MERGING
+
+1. https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india?datasetId=557629&sortBy=voteCount
+2. https://www.kaggle.com/code/anshuls235/covid19-explained-through-visualizations/data
+3. https://geographicalanalysis.com/download-free-india-shapefile-including-kashmir-and-ladakh/
+4. https://github.com/DataScienceRoadMapDSRM/Tableau-Dashboards-info/blob/main/India_State_Shapefile%20(1).zip
